@@ -1135,7 +1135,7 @@ export class _Blank extends React.Component {
                                 borderLeftWidth: 0,
                                 borderRightWidth: 0,
                                 borderTopWidth: 0,
-                                borderBottomWidth: 2,
+                                borderBottomWidth: 3,
                                 borderRadius: 0
                               }}
                               onPress={() => alert("Pressed!")}
