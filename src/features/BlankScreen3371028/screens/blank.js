@@ -326,7 +326,7 @@ export class _Blank extends React.Component {
                       fontSize: 20,
                       color: "#000000",
                       fontStyle: "normal",
-                      fontWeight: "normal",
+                      fontWeight: "bold",
                       fontFamily: "System",
                       borderColor: "#000000",
                       borderStyle: "solid",
@@ -390,9 +390,9 @@ export class _Blank extends React.Component {
                       overflow: "visible",
                       textAlign: "left",
                       verticalAlign: "baseline",
-                      fontSize: 20,
+                      fontSize: 14,
                       color: "#fd6f80",
-                      fontStyle: "normal",
+                      fontStyle: "italic",
                       fontWeight: "normal",
                       fontFamily: "System",
                       borderColor: "#000000",
@@ -405,7 +405,7 @@ export class _Blank extends React.Component {
                       borderRadius: 0
                     }}
                   >
-                    Sample text content
+                    Reviews
                   </Text>
                 </View>
               </View>
@@ -492,7 +492,7 @@ export class _Blank extends React.Component {
                   fontSize: 20,
                   color: "#000000",
                   fontStyle: "normal",
-                  fontWeight: "bold",
+                  fontWeight: "normal",
                   fontFamily: "System",
                   borderColor: "#000000",
                   borderStyle: "solid",
