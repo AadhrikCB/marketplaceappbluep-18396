@@ -888,7 +888,32 @@ export class _Blank extends React.Component {
                         borderRadius: 0,
                         backgroundSize: "auto"
                       }}
-                    />
+                    >
+                      <Text
+                        style={{
+                          marginLeft: 0,
+                          marginRight: 0,
+                          overflow: "visible",
+                          textAlign: "left",
+                          verticalAlign: "baseline",
+                          fontSize: 14,
+                          color: "#fd6f80",
+                          fontStyle: "normal",
+                          fontWeight: "bold",
+                          fontFamily: "System",
+                          borderColor: "#000000",
+                          borderStyle: "solid",
+                          borderWidth: 0,
+                          borderLeftWidth: 0,
+                          borderRightWidth: 0,
+                          borderTopWidth: 0,
+                          borderBottomWidth: 0,
+                          borderRadius: 0
+                        }}
+                      >
+                        GREAT PRODUCTS
+                      </Text>
+                    </View>
                     <View
                       style={{
                         width: "100%",
@@ -925,7 +950,33 @@ export class _Blank extends React.Component {
                         borderRadius: 0,
                         backgroundSize: "auto"
                       }}
-                    />
+                    >
+                      <Text
+                        style={{
+                          marginLeft: 0,
+                          marginRight: 0,
+                          paddingTop: "10%",
+                          overflow: "visible",
+                          textAlign: "left",
+                          verticalAlign: "baseline",
+                          fontSize: 14,
+                          color: "#000000",
+                          fontStyle: "normal",
+                          fontWeight: "normal",
+                          fontFamily: "System",
+                          borderColor: "#000000",
+                          borderStyle: "solid",
+                          borderWidth: 0,
+                          borderLeftWidth: 0,
+                          borderRightWidth: 0,
+                          borderTopWidth: 0,
+                          borderBottomWidth: 0,
+                          borderRadius: 0
+                        }}
+                      >
+                        Christina Smith
+                      </Text>
+                    </View>
                   </View>
                 </View>
               </View>
