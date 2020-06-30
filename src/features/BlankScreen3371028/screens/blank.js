@@ -324,7 +324,7 @@ export class _Blank extends React.Component {
                       textAlign: "left",
                       verticalAlign: "baseline",
                       fontSize: 20,
-                      color: "#5d5b5d",
+                      color: "#000000",
                       fontStyle: "normal",
                       fontWeight: "normal",
                       fontFamily: "System",
@@ -412,7 +412,7 @@ export class _Blank extends React.Component {
             </View>
             <View
               style={{
-                width: "25%",
+                width: "8%",
                 height: "100%",
                 marginLeft: 0,
                 marginRight: 0,
@@ -446,6 +446,67 @@ export class _Blank extends React.Component {
                 backgroundSize: "auto"
               }}
             />
+            <View
+              style={{
+                width: "17%",
+                height: "100%",
+                marginLeft: 0,
+                marginRight: 0,
+                marginTop: 0,
+                marginBottom: 0,
+                paddingLeft: 0,
+                paddingRight: 0,
+                paddingTop: "10%",
+                paddingBottom: 0,
+                overflow: "visible",
+                textAlign: "left",
+                verticalAlign: "baseline",
+                fontSize: 20,
+                color: "#000000",
+                fontStyle: "normal",
+                fontWeight: "normal",
+                fontFamily: "System",
+                flexDirection: "column",
+                flexWrap: "wrap",
+                justifyContent: "flex-start",
+                alignItems: "stretch",
+                alignContent: "stretch",
+                borderColor: "#000000",
+                borderStyle: "solid",
+                borderWidth: 0,
+                borderLeftWidth: 0,
+                borderRightWidth: 0,
+                borderTopWidth: 0,
+                borderBottomWidth: 0,
+                borderRadius: 0,
+                backgroundSize: "auto"
+              }}
+            >
+              <Text
+                style={{
+                  marginLeft: 0,
+                  marginRight: 0,
+                  overflow: "visible",
+                  textAlign: "center",
+                  verticalAlign: "baseline",
+                  fontSize: 20,
+                  color: "#000000",
+                  fontStyle: "normal",
+                  fontWeight: "bold",
+                  fontFamily: "System",
+                  borderColor: "#000000",
+                  borderStyle: "solid",
+                  borderWidth: 0,
+                  borderLeftWidth: 0,
+                  borderRightWidth: 0,
+                  borderTopWidth: 0,
+                  borderBottomWidth: 0,
+                  borderRadius: 0
+                }}
+              >
+                4.7/5
+              </Text>
+            </View>
           </View>
         </View>
         <View
