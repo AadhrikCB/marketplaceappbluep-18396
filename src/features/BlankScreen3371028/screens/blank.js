@@ -218,7 +218,7 @@ export class _Blank extends React.Component {
                   paddingLeft: 0,
                   paddingRight: 0,
                   paddingTop: 0,
-                  paddingBottom: 0,
+                  paddingBottom: "12%",
                   overflow: "visible",
                   textAlign: "left",
                   verticalAlign: "baseline",
@@ -466,7 +466,39 @@ export class _Blank extends React.Component {
                 borderRadius: 0,
                 backgroundSize: "auto"
               }}
-            />
+            >
+              <Image
+                resizeMode="contain"
+                source={{
+                  uri:
+                    "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/rectangle.png"
+                }}
+                style={{
+                  width: "100%",
+                  height: "100%",
+                  marginLeft: 0,
+                  marginRight: 0,
+                  marginTop: 0,
+                  marginBottom: 11,
+                  paddingLeft: 2,
+                  paddingRight: 4,
+                  paddingTop: 0,
+                  paddingBottom: "22%",
+                  overflow: "visible",
+                  textAlign: "left",
+                  verticalAlign: "baseline",
+                  borderColor: "#000000",
+                  borderStyle: "solid",
+                  borderWidth: 0,
+                  borderLeftWidth: 0,
+                  borderRightWidth: 0,
+                  borderTopWidth: 0,
+                  borderBottomWidth: 0,
+                  borderRadius: 0,
+                  fontFamily: "System"
+                }}
+              />
+            </View>
             <View
               style={{
                 width: "17%",
