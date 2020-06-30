@@ -974,7 +974,8 @@ export class _Blank extends React.Component {
                           borderRadius: 0
                         }}
                       >
-                        Christina Smith
+                        She is a such a good seller all her products always
+                        arrive in time and are perfect!
                       </Text>
                     </View>
                   </View>
