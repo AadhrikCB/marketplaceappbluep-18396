@@ -1388,8 +1388,8 @@ export class _Blank extends React.Component {
                                   "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/profilepic2.png"
                               }}
                               style={{
-                                width: 37,
-                                height: "70%",
+                                width: 29,
+                                height: "75%",
                                 marginLeft: 0,
                                 marginRight: 0,
                                 marginTop: 5,
