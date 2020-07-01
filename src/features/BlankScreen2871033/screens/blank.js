@@ -1898,19 +1898,19 @@ export class _Blank extends React.Component {
                             <Text
                               style={{
                                 marginLeft: 0,
-                                marginRight: 0,
+                                marginRight: 10,
                                 marginTop: 5,
                                 marginBottom: 5,
                                 paddingLeft: 5,
-                                paddingRight: 5,
+                                paddingRight: 20,
                                 paddingTop: 5,
                                 paddingBottom: 5,
                                 overflow: "visible",
-                                textAlign: "left",
+                                textAlign: "right",
                                 verticalAlign: "baseline",
-                                fontSize: 20,
+                                fontSize: 15,
                                 color: "#000000",
-                                backgroundColor: "#ffffff",
+                                backgroundColor: "#fd6f80",
                                 fontStyle: "normal",
                                 fontWeight: "normal",
                                 fontFamily: "System",
@@ -1924,7 +1924,7 @@ export class _Blank extends React.Component {
                                 borderRadius: 0
                               }}
                             >
-                              Counter: $
+                              Counter: $155
                             </Text>
                           </View>
                         </View>
