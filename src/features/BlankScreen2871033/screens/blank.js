@@ -2184,9 +2184,40 @@ export class _Blank extends React.Component {
                               backgroundSize: "auto"
                             }}
                           >
+                            <Image
+                              resizeMode="contain"
+                              source={{
+                                uri:
+                                  "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/profilepic2.png"
+                              }}
+                              style={{
+                                width: "29%",
+                                height: "75%",
+                                marginLeft: 0,
+                                marginRight: 0,
+                                marginTop: 5,
+                                marginBottom: 0,
+                                paddingLeft: 0,
+                                paddingRight: 0,
+                                paddingTop: 0,
+                                paddingBottom: 0,
+                                overflow: "visible",
+                                textAlign: "left",
+                                verticalAlign: "baseline",
+                                borderColor: "#000000",
+                                borderStyle: "solid",
+                                borderWidth: 0,
+                                borderLeftWidth: 0,
+                                borderRightWidth: 0,
+                                borderTopWidth: 0,
+                                borderBottomWidth: 0,
+                                borderRadius: 0,
+                                fontFamily: "System"
+                              }}
+                            />
                             <Text
                               style={{
-                                marginLeft: 50,
+                                marginLeft: 0,
                                 marginRight: 10,
                                 marginTop: 5,
                                 marginBottom: 5,
