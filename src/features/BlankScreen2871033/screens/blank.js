@@ -1390,7 +1390,7 @@ export class _Blank extends React.Component {
                               style={{
                                 width: 29,
                                 height: "75%",
-                                marginLeft: 0,
+                                marginLeft: 5,
                                 marginRight: 0,
                                 marginTop: 5,
                                 marginBottom: 0,
