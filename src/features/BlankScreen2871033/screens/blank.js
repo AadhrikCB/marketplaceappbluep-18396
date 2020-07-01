@@ -1099,7 +1099,7 @@ export class _Blank extends React.Component {
                                 marginTop: 5,
                                 marginBottom: 5,
                                 paddingLeft: 5,
-                                paddingRight: 20,
+                                paddingRight: 5,
                                 paddingTop: 5,
                                 paddingBottom: 5,
                                 overflow: "visible",
@@ -1898,11 +1898,11 @@ export class _Blank extends React.Component {
                             <Text
                               style={{
                                 marginLeft: 0,
-                                marginRight: 10,
+                                marginRight: 40,
                                 marginTop: 5,
                                 marginBottom: 5,
                                 paddingLeft: 5,
-                                paddingRight: 20,
+                                paddingRight: 5,
                                 paddingTop: 5,
                                 paddingBottom: 5,
                                 overflow: "visible",
