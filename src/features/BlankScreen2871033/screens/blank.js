@@ -1898,7 +1898,7 @@ export class _Blank extends React.Component {
                             <Text
                               style={{
                                 marginLeft: 0,
-                                marginRight: 40,
+                                marginRight: 10,
                                 marginTop: 5,
                                 marginBottom: 5,
                                 paddingLeft: 5,
@@ -1926,6 +1926,37 @@ export class _Blank extends React.Component {
                             >
                               Counter: $155
                             </Text>
+                            <Image
+                              resizeMode="contain"
+                              source={{
+                                uri:
+                                  "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/profilepic1.png"
+                              }}
+                              style={{
+                                width: 30,
+                                height: "99%",
+                                marginLeft: 0,
+                                marginRight: 0,
+                                marginTop: 0,
+                                marginBottom: 0,
+                                paddingLeft: 0,
+                                paddingRight: 0,
+                                paddingTop: 0,
+                                paddingBottom: 0,
+                                overflow: "visible",
+                                textAlign: "justify",
+                                verticalAlign: "baseline",
+                                borderColor: "#000000",
+                                borderStyle: "solid",
+                                borderWidth: 0,
+                                borderLeftWidth: 0,
+                                borderRightWidth: 0,
+                                borderTopWidth: 0,
+                                borderBottomWidth: 0,
+                                borderRadius: 0,
+                                fontFamily: "System"
+                              }}
+                            />
                           </View>
                         </View>
                       </View>
