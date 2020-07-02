@@ -760,7 +760,7 @@ export class _Blank extends React.Component {
                           resizeMode="cover"
                           source={{
                             uri:
-                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/nathan-fertig-FBXuXp57eM0-unsplash_1.jpg"
+                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/nathan-fertig-FBXuXp57eM0-unsplash_LsqaMJy.jpg"
                           }}
                           style={{
                             width: "100%",
@@ -1630,7 +1630,7 @@ export class _Blank extends React.Component {
                           resizeMode="cover"
                           source={{
                             uri:
-                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/tim-arterbury-VkwRmha1_tI-unsplash.jpg"
+                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/tim-arterbury-VkwRmha1_tI-unsplash_VdMlMA7.jpg"
                           }}
                           style={{
                             width: "100%",
@@ -2424,7 +2424,7 @@ export class _Blank extends React.Component {
                           resizeMode="cover"
                           source={{
                             uri:
-                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/annie-spratt-ncQ2sguVlgo-unsplash.jpg"
+                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/angele-kamp-OSRpN1D52EM-unsplash.jpg"
                           }}
                           style={{
                             width: "100%",
@@ -2919,7 +2919,7 @@ export class _Blank extends React.Component {
                                     }}
                                   >
                                     <Image
-                                      resizeMode="cover"
+                                      resizeMode="contain"
                                       source={{
                                         uri:
                                           "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/Screen_Shot_2020-06-29_at_11.50.51_AM_X2jFqlD.png"
