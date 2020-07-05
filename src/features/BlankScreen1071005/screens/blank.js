@@ -261,7 +261,7 @@ export class _Blank extends React.Component {
                   resizeMode="cover"
                   source={{
                     uri:
-                      "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/Screen_Shot_2020-06-30_at_1.13.29_PM.png"
+                      "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/Screen_Shot_2020-06-30_at_1.13.29_PM_fUX7fLt.png"
                   }}
                   style={{
                     width: "100%",
