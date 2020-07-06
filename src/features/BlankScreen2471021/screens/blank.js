@@ -374,7 +374,7 @@ export class _Blank extends React.Component {
                           resizeMode="contain"
                           source={{
                             uri:
-                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/Screen_Shot_2020-06-28_at_4.19.57_PM_4ZG58e2_CL0FkGK.png"
+                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/Screen_Shot_2020-06-28_at_4.19.57_PM_4ZG58e2_lUVM8jf.png"
                           }}
                           style={{
                             width: "100%",
@@ -1317,7 +1317,7 @@ export class _Blank extends React.Component {
                           resizeMode="cover"
                           source={{
                             uri:
-                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/alvaro-serrano-pFLNV4gkXsc-unsplash.jpg"
+                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/2084268730098915056_36f300d23243_RwjDwcT.jpg"
                           }}
                           style={{
                             width: "100%",
@@ -1898,7 +1898,7 @@ export class _Blank extends React.Component {
                           resizeMode="cover"
                           source={{
                             uri:
-                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/zany-jadraque-xNWCiKN8ln0-unsplash.jpg"
+                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/zany-jadraque-xNWCiKN8ln0-unsplash_1.jpg"
                           }}
                           style={{
                             width: "100%",
@@ -2557,7 +2557,7 @@ export class _Blank extends React.Component {
                       resizeMode="cover"
                       source={{
                         uri:
-                          "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/ifrah-akhter-PnZw_PBdvhg-unsplash.jpg"
+                          "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/marylou-fortier-a1LBJynN79A-unsplash.jpg"
                       }}
                       style={{
                         width: "100%",
