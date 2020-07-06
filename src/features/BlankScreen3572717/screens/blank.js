@@ -395,7 +395,7 @@ export class _Blank extends React.Component {
                           resizeMode="cover"
                           source={{
                             uri:
-                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/Screen_Shot_2020-06-28_at_4.19.57_PM_4ZG58e2.png"
+                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/Screen_Shot_2020-06-28_at_4.19.57_PM_K7kvhgF.png"
                           }}
                           style={{
                             width: "100%",
@@ -1414,7 +1414,7 @@ export class _Blank extends React.Component {
                           resizeMode="cover"
                           source={{
                             uri:
-                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/demorris-byrd-AZko4PDqYsI-unsplash.jpg"
+                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/Screen_Shot_2020-06-28_at_4.33.12_PM_V52KCKw.png"
                           }}
                           style={{
                             width: "100%",
@@ -2064,7 +2064,7 @@ export class _Blank extends React.Component {
                           resizeMode="cover"
                           source={{
                             uri:
-                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/arteum-ro-VJZdxfvFGuo-unsplash.jpg"
+                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/arteum-ro-VJZdxfvFGuo-unsplash_1Du2Ju3.jpg"
                           }}
                           style={{
                             width: "100%",
