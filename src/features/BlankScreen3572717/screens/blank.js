@@ -3056,7 +3056,7 @@ export class _Blank extends React.Component {
                               }}
                               onPress={() => alert("Pressed!")}
                             >
-                              EXPLORE
+                              SAVED
                             </Button>
                           </View>
                         </View>
@@ -3265,7 +3265,7 @@ export class _Blank extends React.Component {
                               }}
                               onPress={() => alert("Pressed!")}
                             >
-                              EXPLORE
+                              SELL
                             </Button>
                           </View>
                         </View>
