@@ -3176,16 +3176,16 @@ export class _Blank extends React.Component {
                                   "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/camera.png"
                               }}
                               style={{
-                                width: "88%",
-                                height: "88%",
+                                width: "92%",
+                                height: "92%",
                                 marginLeft: 0,
                                 marginRight: 0,
                                 marginTop: 0,
                                 marginBottom: 0,
-                                paddingLeft: "6%",
-                                paddingRight: "6%",
-                                paddingTop: "6%",
-                                paddingBottom: "6%",
+                                paddingLeft: "4%",
+                                paddingRight: "4%",
+                                paddingTop: "4%",
+                                paddingBottom: "4%",
                                 overflow: "visible",
                                 textAlign: "left",
                                 verticalAlign: "baseline",
