@@ -2964,7 +2964,7 @@ export class _Blank extends React.Component {
                               resizeMode="contain"
                               source={{
                                 uri:
-                                  "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/home_1.png"
+                                  "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/heart.png"
                               }}
                               style={{
                                 width: "88%",
