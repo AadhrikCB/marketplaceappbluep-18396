@@ -3474,7 +3474,7 @@ export class _Blank extends React.Component {
                               }}
                               onPress={() => alert("Pressed!")}
                             >
-                              EXPLORE
+                              INBOX
                             </Button>
                           </View>
                         </View>
@@ -3683,7 +3683,7 @@ export class _Blank extends React.Component {
                               }}
                               onPress={() => alert("Pressed!")}
                             >
-                              EXPLORE
+                              PROFILE
                             </Button>
                           </View>
                         </View>
