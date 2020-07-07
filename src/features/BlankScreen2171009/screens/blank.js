@@ -4073,7 +4073,7 @@ export class _Blank extends React.Component {
                                 resizeMode="contain"
                                 source={{
                                   uri:
-                                    "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/browser.png"
+                                    "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/user.png"
                                 }}
                                 style={{
                                   width: "100%",
@@ -4084,8 +4084,8 @@ export class _Blank extends React.Component {
                                   marginBottom: 0,
                                   paddingLeft: 0,
                                   paddingRight: 0,
-                                  paddingTop: 0,
-                                  paddingBottom: 5,
+                                  paddingTop: 2,
+                                  paddingBottom: 3,
                                   overflow: "visible",
                                   textAlign: "left",
                                   verticalAlign: "baseline",
@@ -4165,7 +4165,7 @@ export class _Blank extends React.Component {
                                 }}
                                 onPress={() => alert("Pressed!")}
                               >
-                                EXPLORE
+                                PROFILE
                               </Button>
                             </View>
                           </View>
