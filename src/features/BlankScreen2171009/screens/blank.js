@@ -3236,7 +3236,7 @@ export class _Blank extends React.Component {
                             <View
                               style={{
                                 width: "100%",
-                                height: "50%",
+                                height: 10,
                                 marginLeft: 0,
                                 marginRight: 0,
                                 marginTop: 0,
@@ -3284,7 +3284,7 @@ export class _Blank extends React.Component {
                                   verticalAlign: "text-top",
                                   fontSize: 8,
                                   color: "#000000",
-                                  backgroundColor: "#fd6f80",
+                                  backgroundColor: "#5D5B5D",
                                   fontStyle: "normal",
                                   fontWeight: "normal",
                                   borderColor: "#000000",
