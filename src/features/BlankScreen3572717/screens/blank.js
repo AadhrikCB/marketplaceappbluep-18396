@@ -3078,7 +3078,7 @@ export class _Blank extends React.Component {
                           verticalAlign: "baseline",
                           fontSize: 20,
                           color: "#000000",
-                          backgroundColor: "#ffffff",
+                          backgroundColor: "#fd6f80",
                           fontStyle: "normal",
                           fontWeight: "normal",
                           flexDirection: "column",
@@ -3114,7 +3114,7 @@ export class _Blank extends React.Component {
                             verticalAlign: "baseline",
                             fontSize: 20,
                             color: "#000000",
-                            backgroundColor: "#ffffff",
+                            backgroundColor: "#fd6f80",
                             fontStyle: "normal",
                             fontWeight: "normal",
                             flexDirection: "column",
@@ -3150,7 +3150,7 @@ export class _Blank extends React.Component {
                               verticalAlign: "baseline",
                               fontSize: 20,
                               color: "#000000",
-                              backgroundColor: "#ffffff",
+                              backgroundColor: "#fd6f80",
                               fontStyle: "normal",
                               fontWeight: "normal",
                               flexDirection: "column",
@@ -3217,7 +3217,7 @@ export class _Blank extends React.Component {
                               verticalAlign: "baseline",
                               fontSize: 20,
                               color: "#000000",
-                              backgroundColor: "#ffffff",
+                              backgroundColor: "#fd6f80",
                               fontStyle: "normal",
                               fontWeight: "normal",
                               flexDirection: "column",
@@ -3251,7 +3251,7 @@ export class _Blank extends React.Component {
                                 verticalAlign: "text-top",
                                 fontSize: 8,
                                 color: "#000000",
-                                backgroundColor: "#5D5B5D",
+                                backgroundColor: "#ffffff",
                                 fontStyle: "normal",
                                 fontWeight: "normal",
                                 borderColor: "#000000",
@@ -3382,7 +3382,7 @@ export class _Blank extends React.Component {
                               resizeMode="contain"
                               source={{
                                 uri:
-                                  "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/home_1.png"
+                                  "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/107638570_858799604643681_5639051716453408559_n.png"
                               }}
                               style={{
                                 width: "88%",
