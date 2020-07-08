@@ -5248,7 +5248,7 @@ export class _Blank extends React.Component {
                         resizeMode="contain"
                         source={{
                           uri:
-                            "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/browser_1.png"
+                            "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/comment_AKVpR1r.png"
                         }}
                         style={{
                           width: "100%",
@@ -5326,7 +5326,7 @@ export class _Blank extends React.Component {
                           verticalAlign: "text-top",
                           fontSize: 8,
                           color: "#000000",
-                          backgroundColor: "#fd6f80",
+                          backgroundColor: "#6d6f6d",
                           fontStyle: "normal",
                           fontWeight: "normal",
                           borderColor: "#000000",
@@ -5340,7 +5340,7 @@ export class _Blank extends React.Component {
                         }}
                         onPress={() => alert("Pressed!")}
                       >
-                        EXPLORE
+                        INBOX
                       </Button>
                     </View>
                   </View>
@@ -5457,7 +5457,7 @@ export class _Blank extends React.Component {
                         resizeMode="contain"
                         source={{
                           uri:
-                            "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/browser_1.png"
+                            "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/user_2FQEJWw.png"
                         }}
                         style={{
                           width: "100%",
@@ -5535,7 +5535,7 @@ export class _Blank extends React.Component {
                           verticalAlign: "text-top",
                           fontSize: 8,
                           color: "#000000",
-                          backgroundColor: "#fd6f80",
+                          backgroundColor: "#6D6F6D",
                           fontStyle: "normal",
                           fontWeight: "normal",
                           borderColor: "#000000",
@@ -5549,7 +5549,7 @@ export class _Blank extends React.Component {
                         }}
                         onPress={() => alert("Pressed!")}
                       >
-                        EXPLORE
+                        PROFILE
                       </Button>
                     </View>
                   </View>
