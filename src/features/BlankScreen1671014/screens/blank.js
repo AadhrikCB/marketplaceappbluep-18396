@@ -1155,7 +1155,7 @@ export class _Blank extends React.Component {
                                       style={{
                                         marginLeft: 0,
                                         marginRight: 0,
-                                        marginTop: 5,
+                                        marginTop: 0,
                                         marginBottom: 5,
                                         paddingLeft: 5,
                                         paddingRight: 5,
@@ -1222,7 +1222,7 @@ export class _Blank extends React.Component {
                                       style={{
                                         marginLeft: 0,
                                         marginRight: 0,
-                                        marginTop: 5,
+                                        marginTop: 0,
                                         marginBottom: 5,
                                         paddingLeft: 5,
                                         paddingRight: 5,
@@ -1363,7 +1363,7 @@ export class _Blank extends React.Component {
                                       style={{
                                         marginLeft: 0,
                                         marginRight: 0,
-                                        marginTop: 5,
+                                        marginTop: 0,
                                         marginBottom: 5,
                                         paddingLeft: 5,
                                         paddingRight: 5,
@@ -1430,7 +1430,7 @@ export class _Blank extends React.Component {
                                       style={{
                                         marginLeft: 0,
                                         marginRight: 0,
-                                        marginTop: 5,
+                                        marginTop: 0,
                                         marginBottom: 5,
                                         paddingLeft: 5,
                                         paddingRight: 5,
@@ -1573,7 +1573,7 @@ export class _Blank extends React.Component {
                                   style={{
                                     marginLeft: 0,
                                     marginRight: 0,
-                                    marginTop: 5,
+                                    marginTop: 0,
                                     marginBottom: 5,
                                     paddingLeft: 5,
                                     paddingRight: 5,
@@ -1639,7 +1639,7 @@ export class _Blank extends React.Component {
                                   style={{
                                     marginLeft: 0,
                                     marginRight: 0,
-                                    marginTop: 5,
+                                    marginTop: 0,
                                     marginBottom: 5,
                                     paddingLeft: 5,
                                     paddingRight: 5,
@@ -2051,7 +2051,7 @@ export class _Blank extends React.Component {
                               style={{
                                 marginLeft: 0,
                                 marginRight: 0,
-                                marginTop: 5,
+                                marginTop: 1,
                                 marginBottom: 5,
                                 paddingLeft: 5,
                                 paddingRight: 5,
@@ -2190,8 +2190,8 @@ export class _Blank extends React.Component {
                                   style={{
                                     marginLeft: 0,
                                     marginRight: 0,
-                                    marginTop: 5,
-                                    marginBottom: 15,
+                                    marginTop: 0,
+                                    marginBottom: 0,
                                     paddingLeft: 5,
                                     paddingRight: 5,
                                     paddingTop: 5,
@@ -2329,7 +2329,7 @@ export class _Blank extends React.Component {
                                       style={{
                                         marginLeft: 0,
                                         marginRight: 0,
-                                        marginTop: 5,
+                                        marginTop: 0,
                                         marginBottom: 5,
                                         paddingLeft: 5,
                                         paddingRight: 5,
@@ -2682,7 +2682,7 @@ export class _Blank extends React.Component {
                               style={{
                                 marginLeft: 0,
                                 marginRight: 0,
-                                marginTop: 5,
+                                marginTop: 1,
                                 marginBottom: 5,
                                 paddingLeft: 5,
                                 paddingRight: 5,
@@ -2821,7 +2821,7 @@ export class _Blank extends React.Component {
                                   style={{
                                     marginLeft: 0,
                                     marginRight: 0,
-                                    marginTop: 5,
+                                    marginTop: 0,
                                     marginBottom: 5,
                                     paddingLeft: 5,
                                     paddingRight: 5,
@@ -2960,7 +2960,7 @@ export class _Blank extends React.Component {
                                       style={{
                                         marginLeft: 0,
                                         marginRight: 0,
-                                        marginTop: 5,
+                                        marginTop: 0,
                                         marginBottom: 5,
                                         paddingLeft: 5,
                                         paddingRight: 5,
@@ -3387,7 +3387,7 @@ export class _Blank extends React.Component {
                               style={{
                                 marginLeft: 0,
                                 marginRight: 0,
-                                marginTop: 5,
+                                marginTop: 1,
                                 marginBottom: 5,
                                 paddingLeft: 5,
                                 paddingRight: 5,
@@ -3526,7 +3526,7 @@ export class _Blank extends React.Component {
                                   style={{
                                     marginLeft: 0,
                                     marginRight: 0,
-                                    marginTop: 5,
+                                    marginTop: 0,
                                     marginBottom: 5,
                                     paddingLeft: 5,
                                     paddingRight: 5,
@@ -3665,7 +3665,7 @@ export class _Blank extends React.Component {
                                       style={{
                                         marginLeft: 0,
                                         marginRight: 0,
-                                        marginTop: 5,
+                                        marginTop: 0,
                                         marginBottom: 5,
                                         paddingLeft: 5,
                                         paddingRight: 5,
@@ -4018,7 +4018,7 @@ export class _Blank extends React.Component {
                               style={{
                                 marginLeft: 0,
                                 marginRight: 0,
-                                marginTop: 5,
+                                marginTop: 1,
                                 marginBottom: 5,
                                 paddingLeft: 5,
                                 paddingRight: 5,
@@ -4157,7 +4157,7 @@ export class _Blank extends React.Component {
                                   style={{
                                     marginLeft: 0,
                                     marginRight: 0,
-                                    marginTop: 5,
+                                    marginTop: 0,
                                     marginBottom: 30,
                                     paddingLeft: 5,
                                     paddingRight: 5,
@@ -4296,7 +4296,7 @@ export class _Blank extends React.Component {
                                       style={{
                                         marginLeft: 0,
                                         marginRight: 0,
-                                        marginTop: 5,
+                                        marginTop: 0,
                                         marginBottom: 5,
                                         paddingLeft: 5,
                                         paddingRight: 5,
@@ -4405,7 +4405,7 @@ export class _Blank extends React.Component {
           <View
             style={{
               width: "100%",
-              height: "10%",
+              height: 9,
               marginLeft: 0,
               marginRight: 0,
               marginTop: 0,
@@ -4419,7 +4419,7 @@ export class _Blank extends React.Component {
               verticalAlign: "baseline",
               fontSize: 20,
               color: "#000000",
-              backgroundColor: "#ffffff",
+              backgroundColor: "#f4f5f9",
               fontStyle: "normal",
               fontWeight: "normal",
               flexDirection: "column",
@@ -4437,7 +4437,43 @@ export class _Blank extends React.Component {
               borderRadius: 0,
               backgroundSize: "auto"
             }}
-          />
+          >
+            <View
+              style={{
+                width: "100%",
+                height: "100%",
+                marginLeft: 10,
+                marginRight: 10,
+                marginTop: 10,
+                marginBottom: 10,
+                paddingLeft: 0,
+                paddingRight: 0,
+                paddingBottom: 0,
+                overflow: "visible",
+                textAlign: "left",
+                verticalAlign: "baseline",
+                fontSize: 20,
+                color: "#000000",
+                backgroundColor: "#ffffff",
+                fontStyle: "normal",
+                fontWeight: "normal",
+                flexDirection: "column",
+                flexWrap: "wrap",
+                justifyContent: "flex-start",
+                alignItems: "stretch",
+                alignContent: "stretch",
+                borderColor: "#000000",
+                borderStyle: "solid",
+                borderWidth: 0,
+                borderLeftWidth: 0,
+                borderRightWidth: 0,
+                borderTopWidth: 0,
+                borderBottomWidth: 0,
+                borderRadius: 0,
+                backgroundSize: "auto"
+              }}
+            />
+          </View>
         </View>
       </View>
     </View>
