@@ -33,8 +33,7 @@ export class _Blank extends React.Component {
         alignItems: "stretch",
         alignContent: "stretch",
         borderStyle: "solid",
-        backgroundSize: "auto",
-        fontFamily: "System"
+        backgroundSize: "auto"
       }}
     >
       <View
@@ -49,8 +48,7 @@ export class _Blank extends React.Component {
           alignItems: "stretch",
           alignContent: "stretch",
           borderStyle: "solid",
-          backgroundSize: "auto",
-          fontFamily: "System"
+          backgroundSize: "auto"
         }}
       >
         <View
@@ -65,8 +63,7 @@ export class _Blank extends React.Component {
             alignItems: "stretch",
             alignContent: "stretch",
             borderStyle: "solid",
-            backgroundSize: "auto",
-            fontFamily: "System"
+            backgroundSize: "auto"
           }}
         >
           <View
@@ -82,7 +79,7 @@ export class _Blank extends React.Component {
               alignContent: "stretch",
               borderStyle: "solid",
               backgroundSize: "auto",
-              fontFamily: "System"
+              height: 30
             }}
           >
             <View
@@ -97,8 +94,7 @@ export class _Blank extends React.Component {
                 alignItems: "stretch",
                 alignContent: "stretch",
                 borderStyle: "solid",
-                backgroundSize: "auto",
-                fontFamily: "System"
+                backgroundSize: "auto"
               }}
             >
               <View
@@ -113,8 +109,7 @@ export class _Blank extends React.Component {
                   alignItems: "stretch",
                   alignContent: "stretch",
                   borderStyle: "solid",
-                  backgroundSize: "auto",
-                  fontFamily: "System"
+                  backgroundSize: "auto"
                 }}
               >
                 <View
@@ -129,8 +124,7 @@ export class _Blank extends React.Component {
                     alignItems: "stretch",
                     alignContent: "stretch",
                     borderStyle: "solid",
-                    backgroundSize: "auto",
-                    fontFamily: "System"
+                    backgroundSize: "auto"
                   }}
                 >
                   <View
@@ -145,8 +139,7 @@ export class _Blank extends React.Component {
                       alignItems: "stretch",
                       alignContent: "stretch",
                       borderStyle: "solid",
-                      backgroundSize: "auto",
-                      fontFamily: "System"
+                      backgroundSize: "auto"
                     }}
                   >
                     <View
@@ -161,8 +154,7 @@ export class _Blank extends React.Component {
                         alignItems: "stretch",
                         alignContent: "stretch",
                         borderStyle: "solid",
-                        backgroundSize: "auto",
-                        fontFamily: "System"
+                        backgroundSize: "auto"
                       }}
                     >
                       <View
@@ -177,8 +169,7 @@ export class _Blank extends React.Component {
                           alignItems: "stretch",
                           alignContent: "stretch",
                           borderStyle: "solid",
-                          backgroundSize: "auto",
-                          fontFamily: "System"
+                          backgroundSize: "auto"
                         }}
                       >
                         <View
@@ -193,8 +184,7 @@ export class _Blank extends React.Component {
                             alignItems: "stretch",
                             alignContent: "stretch",
                             borderStyle: "solid",
-                            backgroundSize: "auto",
-                            fontFamily: "System"
+                            backgroundSize: "auto"
                           }}
                         >
                           <View
@@ -209,8 +199,7 @@ export class _Blank extends React.Component {
                               alignItems: "stretch",
                               alignContent: "stretch",
                               borderStyle: "solid",
-                              backgroundSize: "auto",
-                              fontFamily: "System"
+                              backgroundSize: "auto"
                             }}
                           >
                             <View
@@ -225,8 +214,7 @@ export class _Blank extends React.Component {
                                 alignItems: "stretch",
                                 alignContent: "stretch",
                                 borderStyle: "solid",
-                                backgroundSize: "auto",
-                                fontFamily: "System"
+                                backgroundSize: "auto"
                               }}
                             >
                               <View
@@ -242,7 +230,6 @@ export class _Blank extends React.Component {
                                   alignContent: "stretch",
                                   borderStyle: "solid",
                                   backgroundSize: "auto",
-                                  fontFamily: "System",
                                   width: 1
                                 }}
                               >
@@ -273,8 +260,7 @@ export class _Blank extends React.Component {
                                     borderRightWidth: 0,
                                     borderTopWidth: 0,
                                     borderBottomWidth: 0,
-                                    borderRadius: 0,
-                                    fontFamily: "System"
+                                    borderRadius: 0
                                   }}
                                 />
                               </View>
@@ -292,7 +278,6 @@ export class _Blank extends React.Component {
                                   alignContent: "stretch",
                                   borderStyle: "solid",
                                   backgroundSize: "auto",
-                                  fontFamily: "System",
                                   width: 120
                                 }}
                               >
@@ -317,7 +302,6 @@ export class _Blank extends React.Component {
                                     backgroundColor: "#ffffff",
                                     fontStyle: "normal",
                                     fontWeight: "normal",
-                                    fontFamily: "System",
                                     borderColor: "#000000",
                                     borderStyle: "solid",
                                     borderWidth: 0,
@@ -347,8 +331,7 @@ export class _Blank extends React.Component {
                               alignItems: "stretch",
                               alignContent: "stretch",
                               borderStyle: "solid",
-                              backgroundSize: "auto",
-                              fontFamily: "System"
+                              backgroundSize: "auto"
                             }}
                           >
                             <View
@@ -363,8 +346,7 @@ export class _Blank extends React.Component {
                                 alignItems: "stretch",
                                 alignContent: "stretch",
                                 borderStyle: "solid",
-                                backgroundSize: "auto",
-                                fontFamily: "System"
+                                backgroundSize: "auto"
                               }}
                             >
                               <View
@@ -379,8 +361,7 @@ export class _Blank extends React.Component {
                                   alignItems: "stretch",
                                   alignContent: "stretch",
                                   borderStyle: "solid",
-                                  backgroundSize: "auto",
-                                  fontFamily: "System"
+                                  backgroundSize: "auto"
                                 }}
                               >
                                 <View
@@ -395,8 +376,7 @@ export class _Blank extends React.Component {
                                     alignItems: "stretch",
                                     alignContent: "stretch",
                                     borderStyle: "solid",
-                                    backgroundSize: "auto",
-                                    fontFamily: "System"
+                                    backgroundSize: "auto"
                                   }}
                                 >
                                   <View
@@ -411,8 +391,7 @@ export class _Blank extends React.Component {
                                       alignItems: "stretch",
                                       alignContent: "stretch",
                                       borderStyle: "solid",
-                                      backgroundSize: "auto",
-                                      fontFamily: "System"
+                                      backgroundSize: "auto"
                                     }}
                                   >
                                     <View
@@ -428,7 +407,6 @@ export class _Blank extends React.Component {
                                         alignContent: "stretch",
                                         borderStyle: "solid",
                                         backgroundSize: "auto",
-                                        fontFamily: "System",
                                         height: 30
                                       }}
                                     >
@@ -445,7 +423,6 @@ export class _Blank extends React.Component {
                                           alignContent: "stretch",
                                           borderStyle: "solid",
                                           backgroundSize: "auto",
-                                          fontFamily: "System",
                                           height: 70
                                         }}
                                       >
@@ -469,7 +446,6 @@ export class _Blank extends React.Component {
                                             backgroundColor: "#ffffff",
                                             fontStyle: "normal",
                                             fontWeight: "normal",
-                                            fontFamily: "System",
                                             flexDirection: "row",
                                             flexWrap: "wrap",
                                             justifyContent: "flex-start",
@@ -506,7 +482,6 @@ export class _Blank extends React.Component {
                                               backgroundColor: "#ffffff",
                                               fontStyle: "normal",
                                               fontWeight: "normal",
-                                              fontFamily: "System",
                                               flexDirection: "column",
                                               flexWrap: "wrap",
                                               justifyContent: "flex-start",
@@ -543,7 +518,6 @@ export class _Blank extends React.Component {
                                                 backgroundColor: "#ffffff",
                                                 fontStyle: "normal",
                                                 fontWeight: "normal",
-                                                fontFamily: "System",
                                                 flexDirection: "row",
                                                 flexWrap: "wrap",
                                                 justifyContent: "flex-start",
@@ -580,7 +554,6 @@ export class _Blank extends React.Component {
                                                   backgroundColor: "#ffffff",
                                                   fontStyle: "normal",
                                                   fontWeight: "normal",
-                                                  fontFamily: "System",
                                                   flexDirection: "column",
                                                   flexWrap: "wrap",
                                                   justifyContent: "flex-start",
@@ -601,7 +574,7 @@ export class _Blank extends React.Component {
                                                   resizeMode="cover"
                                                   source={{
                                                     uri:
-                                                      "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/minh-pham-MBsReSZ2WNM-unsplash.jpg"
+                                                      "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/stephanie-harvey-PPA6wsuedeM-unsplash.jpg"
                                                   }}
                                                   style={{
                                                     width: "100%",
@@ -624,8 +597,7 @@ export class _Blank extends React.Component {
                                                     borderRightWidth: 0,
                                                     borderTopWidth: 0,
                                                     borderBottomWidth: 0,
-                                                    borderRadius: 0,
-                                                    fontFamily: "System"
+                                                    borderRadius: 0
                                                   }}
                                                 />
                                               </View>
@@ -649,7 +621,6 @@ export class _Blank extends React.Component {
                                                   backgroundColor: "#ffffff",
                                                   fontStyle: "normal",
                                                   fontWeight: "normal",
-                                                  fontFamily: "System",
                                                   flexDirection: "column",
                                                   flexWrap: "wrap",
                                                   justifyContent: "flex-start",
@@ -670,7 +641,7 @@ export class _Blank extends React.Component {
                                                   resizeMode="cover"
                                                   source={{
                                                     uri:
-                                                      "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/lauren-fleischmann-R2aodqJn3b8-unsplash.jpg"
+                                                      "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/lauren-fleischmann-R2aodqJn3b8-unsplash_gnDAviR.jpg"
                                                   }}
                                                   style={{
                                                     width: "100%",
@@ -693,8 +664,37 @@ export class _Blank extends React.Component {
                                                     borderRightWidth: 0,
                                                     borderTopWidth: 0,
                                                     borderBottomWidth: 0,
-                                                    borderRadius: 0,
-                                                    fontFamily: "System"
+                                                    borderRadius: 0
+                                                  }}
+                                                />
+                                                <Image
+                                                  resizeMode="cover"
+                                                  source={{
+                                                    uri:
+                                                      "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/lauren-fleischmann-R2aodqJn3b8-unsplash_gnDAviR.jpg"
+                                                  }}
+                                                  style={{
+                                                    width: "100%",
+                                                    height: "100%",
+                                                    marginLeft: 0,
+                                                    marginRight: 0,
+                                                    marginTop: 0,
+                                                    marginBottom: 0,
+                                                    paddingLeft: 0,
+                                                    paddingRight: 0,
+                                                    paddingTop: 0,
+                                                    paddingBottom: 0,
+                                                    overflow: "visible",
+                                                    textAlign: "left",
+                                                    verticalAlign: "baseline",
+                                                    borderColor: "#000000",
+                                                    borderStyle: "solid",
+                                                    borderWidth: 0,
+                                                    borderLeftWidth: 0,
+                                                    borderRightWidth: 0,
+                                                    borderTopWidth: 0,
+                                                    borderBottomWidth: 0,
+                                                    borderRadius: 0
                                                   }}
                                                 />
                                               </View>
@@ -720,7 +720,6 @@ export class _Blank extends React.Component {
                                               backgroundColor: "#ffffff",
                                               fontStyle: "normal",
                                               fontWeight: "normal",
-                                              fontFamily: "System",
                                               flexDirection: "column",
                                               flexWrap: "wrap",
                                               justifyContent: "flex-start",
@@ -757,7 +756,6 @@ export class _Blank extends React.Component {
                                                 backgroundColor: "#ffffff",
                                                 fontStyle: "normal",
                                                 fontWeight: "normal",
-                                                fontFamily: "System",
                                                 flexDirection: "row",
                                                 flexWrap: "wrap",
                                                 justifyContent: "flex-start",
@@ -794,7 +792,6 @@ export class _Blank extends React.Component {
                                                   backgroundColor: "#ffffff",
                                                   fontStyle: "normal",
                                                   fontWeight: "normal",
-                                                  fontFamily: "System",
                                                   flexDirection: "column",
                                                   flexWrap: "wrap",
                                                   justifyContent: "flex-start",
@@ -815,7 +812,7 @@ export class _Blank extends React.Component {
                                                   resizeMode="cover"
                                                   source={{
                                                     uri:
-                                                      "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/xavier-teo-SxAXphIPWeg-unsplash.jpg"
+                                                      "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/xavier-teo-SxAXphIPWeg-unsplash_1.jpg"
                                                   }}
                                                   style={{
                                                     width: "100%",
@@ -838,8 +835,7 @@ export class _Blank extends React.Component {
                                                     borderRightWidth: 0,
                                                     borderTopWidth: 0,
                                                     borderBottomWidth: 0,
-                                                    borderRadius: 0,
-                                                    fontFamily: "System"
+                                                    borderRadius: 0
                                                   }}
                                                 />
                                               </View>
@@ -863,7 +859,6 @@ export class _Blank extends React.Component {
                                                   backgroundColor: "#ffffff",
                                                   fontStyle: "normal",
                                                   fontWeight: "normal",
-                                                  fontFamily: "System",
                                                   flexDirection: "column",
                                                   flexWrap: "wrap",
                                                   justifyContent: "flex-start",
@@ -884,7 +879,7 @@ export class _Blank extends React.Component {
                                                   resizeMode="cover"
                                                   source={{
                                                     uri:
-                                                      "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/freddy-castro-u3ajSXhZM_U-unsplash.jpg"
+                                                      "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/arnel-hasanovic-MNd-Rka1o0Q-unsplash.jpg"
                                                   }}
                                                   style={{
                                                     width: "100%",
@@ -907,8 +902,7 @@ export class _Blank extends React.Component {
                                                     borderRightWidth: 0,
                                                     borderTopWidth: 0,
                                                     borderBottomWidth: 0,
-                                                    borderRadius: 0,
-                                                    fontFamily: "System"
+                                                    borderRadius: 0
                                                   }}
                                                 />
                                               </View>
@@ -937,7 +931,6 @@ export class _Blank extends React.Component {
                           alignContent: "stretch",
                           borderStyle: "solid",
                           backgroundSize: "auto",
-                          fontFamily: "System",
                           height: 0,
                           marginTop: 0
                         }}
@@ -962,7 +955,6 @@ export class _Blank extends React.Component {
                             backgroundColor: "#ffffff",
                             fontStyle: "normal",
                             fontWeight: "normal",
-                            fontFamily: "System",
                             flexDirection: "column",
                             flexWrap: "wrap",
                             justifyContent: "flex-start",
@@ -999,7 +991,6 @@ export class _Blank extends React.Component {
                               backgroundColor: "#ffffff",
                               fontStyle: "normal",
                               fontWeight: "normal",
-                              fontFamily: "System",
                               flexDirection: "column",
                               flexWrap: "wrap",
                               justifyContent: "flex-start",
@@ -1036,7 +1027,6 @@ export class _Blank extends React.Component {
                                 backgroundColor: "#ffffff",
                                 fontStyle: "normal",
                                 fontWeight: "normal",
-                                fontFamily: "System",
                                 flexDirection: "row",
                                 flexWrap: "wrap",
                                 justifyContent: "flex-start",
@@ -1073,7 +1063,6 @@ export class _Blank extends React.Component {
                                   backgroundColor: "#ffffff",
                                   fontStyle: "normal",
                                   fontWeight: "normal",
-                                  fontFamily: "System",
                                   flexDirection: "column",
                                   flexWrap: "wrap",
                                   justifyContent: "flex-start",
@@ -1110,7 +1099,6 @@ export class _Blank extends React.Component {
                                     backgroundColor: "#ffffff",
                                     fontStyle: "normal",
                                     fontWeight: "normal",
-                                    fontFamily: "System",
                                     flexDirection: "row",
                                     flexWrap: "wrap",
                                     justifyContent: "flex-start",
@@ -1147,7 +1135,6 @@ export class _Blank extends React.Component {
                                       backgroundColor: "#ffffff",
                                       fontStyle: "normal",
                                       fontWeight: "normal",
-                                      fontFamily: "System",
                                       flexDirection: "column",
                                       flexWrap: "wrap",
                                       justifyContent: "flex-start",
@@ -1182,7 +1169,6 @@ export class _Blank extends React.Component {
                                         backgroundColor: "#ffffff",
                                         fontStyle: "normal",
                                         fontWeight: "normal",
-                                        fontFamily: "System",
                                         borderColor: "#000000",
                                         borderStyle: "solid",
                                         borderWidth: 0,
@@ -1216,7 +1202,6 @@ export class _Blank extends React.Component {
                                       backgroundColor: "#ffffff",
                                       fontStyle: "normal",
                                       fontWeight: "normal",
-                                      fontFamily: "System",
                                       flexDirection: "column",
                                       flexWrap: "wrap",
                                       justifyContent: "flex-start",
@@ -1251,7 +1236,6 @@ export class _Blank extends React.Component {
                                         backgroundColor: "#ffffff",
                                         fontStyle: "normal",
                                         fontWeight: "normal",
-                                        fontFamily: "System",
                                         borderColor: "#000000",
                                         borderStyle: "solid",
                                         borderWidth: 0,
@@ -1287,7 +1271,6 @@ export class _Blank extends React.Component {
                                   backgroundColor: "#ffffff",
                                   fontStyle: "normal",
                                   fontWeight: "normal",
-                                  fontFamily: "System",
                                   flexDirection: "column",
                                   flexWrap: "wrap",
                                   justifyContent: "flex-start",
@@ -1324,7 +1307,6 @@ export class _Blank extends React.Component {
                                     backgroundColor: "#ffffff",
                                     fontStyle: "normal",
                                     fontWeight: "normal",
-                                    fontFamily: "System",
                                     flexDirection: "row",
                                     flexWrap: "wrap",
                                     justifyContent: "flex-start",
@@ -1361,7 +1343,6 @@ export class _Blank extends React.Component {
                                       backgroundColor: "#ffffff",
                                       fontStyle: "normal",
                                       fontWeight: "normal",
-                                      fontFamily: "System",
                                       flexDirection: "column",
                                       flexWrap: "wrap",
                                       justifyContent: "flex-start",
@@ -1396,7 +1377,6 @@ export class _Blank extends React.Component {
                                         backgroundColor: "#ffffff",
                                         fontStyle: "normal",
                                         fontWeight: "normal",
-                                        fontFamily: "System",
                                         borderColor: "#000000",
                                         borderStyle: "solid",
                                         borderWidth: 0,
@@ -1430,7 +1410,6 @@ export class _Blank extends React.Component {
                                       backgroundColor: "#ffffff",
                                       fontStyle: "normal",
                                       fontWeight: "normal",
-                                      fontFamily: "System",
                                       flexDirection: "column",
                                       flexWrap: "wrap",
                                       justifyContent: "flex-start",
@@ -1465,7 +1444,6 @@ export class _Blank extends React.Component {
                                         backgroundColor: "#ffffff",
                                         fontStyle: "normal",
                                         fontWeight: "normal",
-                                        fontFamily: "System",
                                         borderColor: "#000000",
                                         borderStyle: "solid",
                                         borderWidth: 0,
@@ -1503,7 +1481,6 @@ export class _Blank extends React.Component {
                               backgroundColor: "#ffffff",
                               fontStyle: "normal",
                               fontWeight: "normal",
-                              fontFamily: "System",
                               flexDirection: "column",
                               flexWrap: "wrap",
                               justifyContent: "flex-start",
@@ -1540,7 +1517,6 @@ export class _Blank extends React.Component {
                                 backgroundColor: "#ffffff",
                                 fontStyle: "normal",
                                 fontWeight: "normal",
-                                fontFamily: "System",
                                 flexDirection: "row",
                                 flexWrap: "wrap",
                                 justifyContent: "flex-start",
@@ -1577,7 +1553,6 @@ export class _Blank extends React.Component {
                                   backgroundColor: "#ffffff",
                                   fontStyle: "normal",
                                   fontWeight: "normal",
-                                  fontFamily: "System",
                                   flexDirection: "column",
                                   flexWrap: "wrap",
                                   justifyContent: "flex-start",
@@ -1612,7 +1587,6 @@ export class _Blank extends React.Component {
                                     backgroundColor: "#ffffff",
                                     fontStyle: "normal",
                                     fontWeight: "bold",
-                                    fontFamily: "System",
                                     borderColor: "#000000",
                                     borderStyle: "solid",
                                     borderWidth: 0,
@@ -1645,7 +1619,6 @@ export class _Blank extends React.Component {
                                   backgroundColor: "#ffffff",
                                   fontStyle: "normal",
                                   fontWeight: "normal",
-                                  fontFamily: "System",
                                   flexDirection: "column",
                                   flexWrap: "wrap",
                                   justifyContent: "flex-start",
@@ -1680,7 +1653,6 @@ export class _Blank extends React.Component {
                                     backgroundColor: "#ffffff",
                                     fontStyle: "normal",
                                     fontWeight: "normal",
-                                    fontFamily: "System",
                                     borderColor: "#000000",
                                     borderStyle: "solid",
                                     borderWidth: 0,
@@ -1717,14 +1689,13 @@ export class _Blank extends React.Component {
               alignContent: "stretch",
               borderStyle: "solid",
               backgroundSize: "auto",
-              fontFamily: "System",
-              height: 200
+              height: 155
             }}
           >
             <View
               style={{
                 width: "100%",
-                height: "100%",
+                height: "90%",
                 marginLeft: 0,
                 marginRight: 0,
                 marginTop: 0,
@@ -1741,7 +1712,6 @@ export class _Blank extends React.Component {
                 backgroundColor: "#ffffff",
                 fontStyle: "normal",
                 fontWeight: "normal",
-                fontFamily: "System",
                 flexDirection: "column",
                 flexWrap: "wrap",
                 justifyContent: "flex-start",
@@ -1761,11 +1731,11 @@ export class _Blank extends React.Component {
               <View
                 style={{
                   width: "100%",
-                  height: "50%",
+                  height: "40%",
                   marginLeft: 0,
                   marginRight: 0,
                   marginTop: 0,
-                  marginBottom: 0,
+                  marginBottom: 2,
                   paddingLeft: 0,
                   paddingRight: 0,
                   paddingTop: 0,
@@ -1778,7 +1748,6 @@ export class _Blank extends React.Component {
                   backgroundColor: "#ffffff",
                   fontStyle: "normal",
                   fontWeight: "normal",
-                  fontFamily: "System",
                   flexDirection: "column",
                   flexWrap: "wrap",
                   justifyContent: "flex-start",
@@ -1815,7 +1784,6 @@ export class _Blank extends React.Component {
                     backgroundColor: "#ffffff",
                     fontStyle: "normal",
                     fontWeight: "normal",
-                    fontFamily: "System",
                     flexDirection: "row",
                     flexWrap: "wrap",
                     justifyContent: "flex-start",
@@ -1852,7 +1820,6 @@ export class _Blank extends React.Component {
                       backgroundColor: "#ffffff",
                       fontStyle: "normal",
                       fontWeight: "normal",
-                      fontFamily: "System",
                       flexDirection: "column",
                       flexWrap: "wrap",
                       justifyContent: "flex-start",
@@ -1889,7 +1856,6 @@ export class _Blank extends React.Component {
                         backgroundColor: "#ffffff",
                         fontStyle: "normal",
                         fontWeight: "normal",
-                        fontFamily: "System",
                         flexDirection: "column",
                         flexWrap: "wrap",
                         justifyContent: "flex-start",
@@ -1926,7 +1892,6 @@ export class _Blank extends React.Component {
                           backgroundColor: "#ffffff",
                           fontStyle: "normal",
                           fontWeight: "normal",
-                          fontFamily: "System",
                           flexDirection: "column",
                           flexWrap: "wrap",
                           justifyContent: "flex-start",
@@ -1947,7 +1912,7 @@ export class _Blank extends React.Component {
                           resizeMode="cover"
                           source={{
                             uri:
-                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/nathan-fertig-FBXuXp57eM0-unsplash.jpg"
+                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/nathan-fertig-FBXuXp57eM0-unsplash_q7l5E3c.jpg"
                           }}
                           style={{
                             width: "100%",
@@ -1970,8 +1935,7 @@ export class _Blank extends React.Component {
                             borderRightWidth: 0,
                             borderTopWidth: 0,
                             borderBottomWidth: 0,
-                            borderRadius: 0,
-                            fontFamily: "System"
+                            borderRadius: 0
                           }}
                         />
                       </View>
@@ -1995,7 +1959,6 @@ export class _Blank extends React.Component {
                           backgroundColor: "#ffffff",
                           fontStyle: "normal",
                           fontWeight: "normal",
-                          fontFamily: "System",
                           flexDirection: "column",
                           flexWrap: "wrap",
                           justifyContent: "flex-start",
@@ -2032,7 +1995,6 @@ export class _Blank extends React.Component {
                             backgroundColor: "#ffffff",
                             fontStyle: "normal",
                             fontWeight: "normal",
-                            fontFamily: "System",
                             flexDirection: "column",
                             flexWrap: "wrap",
                             justifyContent: "flex-start",
@@ -2069,7 +2031,6 @@ export class _Blank extends React.Component {
                               backgroundColor: "#ffffff",
                               fontStyle: "normal",
                               fontWeight: "normal",
-                              fontFamily: "System",
                               flexDirection: "column",
                               flexWrap: "wrap",
                               justifyContent: "flex-start",
@@ -2104,7 +2065,6 @@ export class _Blank extends React.Component {
                                 backgroundColor: "#ffffff",
                                 fontStyle: "normal",
                                 fontWeight: "normal",
-                                fontFamily: "System",
                                 borderColor: "#000000",
                                 borderStyle: "solid",
                                 borderWidth: 0,
@@ -2138,7 +2098,6 @@ export class _Blank extends React.Component {
                               backgroundColor: "#ffffff",
                               fontStyle: "normal",
                               fontWeight: "normal",
-                              fontFamily: "System",
                               flexDirection: "column",
                               flexWrap: "wrap",
                               justifyContent: "flex-start",
@@ -2175,7 +2134,6 @@ export class _Blank extends React.Component {
                                 backgroundColor: "#ffffff",
                                 fontStyle: "normal",
                                 fontWeight: "normal",
-                                fontFamily: "System",
                                 flexDirection: "column",
                                 flexWrap: "wrap",
                                 justifyContent: "flex-start",
@@ -2212,7 +2170,6 @@ export class _Blank extends React.Component {
                                   backgroundColor: "#ffffff",
                                   fontStyle: "normal",
                                   fontWeight: "normal",
-                                  fontFamily: "System",
                                   flexDirection: "column",
                                   flexWrap: "wrap",
                                   justifyContent: "flex-start",
@@ -2238,16 +2195,15 @@ export class _Blank extends React.Component {
                                     paddingLeft: 5,
                                     paddingRight: 5,
                                     paddingTop: 5,
-                                    paddingBottom: 5,
+                                    paddingBottom: 20,
                                     overflow: "visible",
                                     textAlign: "left",
-                                    verticalAlign: "baseline",
+                                    verticalAlign: "sub",
                                     fontSize: 10,
                                     color: "#FD6F80",
                                     backgroundColor: "#ffffff",
                                     fontStyle: "normal",
                                     fontWeight: "normal",
-                                    fontFamily: "System",
                                     borderColor: "#000000",
                                     borderStyle: "solid",
                                     borderWidth: 0,
@@ -2281,7 +2237,6 @@ export class _Blank extends React.Component {
                                   backgroundColor: "#ffffff",
                                   fontStyle: "normal",
                                   fontWeight: "normal",
-                                  fontFamily: "System",
                                   flexDirection: "column",
                                   flexWrap: "wrap",
                                   justifyContent: "flex-start",
@@ -2318,7 +2273,6 @@ export class _Blank extends React.Component {
                                     backgroundColor: "#ffffff",
                                     fontStyle: "normal",
                                     fontWeight: "normal",
-                                    fontFamily: "System",
                                     flexDirection: "row",
                                     flexWrap: "wrap",
                                     justifyContent: "flex-start",
@@ -2355,7 +2309,6 @@ export class _Blank extends React.Component {
                                       backgroundColor: "#ffffff",
                                       fontStyle: "normal",
                                       fontWeight: "normal",
-                                      fontFamily: "System",
                                       flexDirection: "column",
                                       flexWrap: "wrap",
                                       justifyContent: "flex-start",
@@ -2390,7 +2343,6 @@ export class _Blank extends React.Component {
                                         backgroundColor: "#ffffff",
                                         fontStyle: "normal",
                                         fontWeight: "bold",
-                                        fontFamily: "System",
                                         borderColor: "#000000",
                                         borderStyle: "solid",
                                         borderWidth: 0,
@@ -2424,7 +2376,6 @@ export class _Blank extends React.Component {
                                       backgroundColor: "#ffffff",
                                       fontStyle: "normal",
                                       fontWeight: "normal",
-                                      fontFamily: "System",
                                       flexDirection: "column",
                                       flexWrap: "wrap",
                                       justifyContent: "flex-start",
@@ -2468,8 +2419,7 @@ export class _Blank extends React.Component {
                                         borderRightWidth: 0,
                                         borderTopWidth: 0,
                                         borderBottomWidth: 0,
-                                        borderRadius: 0,
-                                        fontFamily: "System"
+                                        borderRadius: 0
                                       }}
                                     />
                                   </View>
@@ -2501,7 +2451,6 @@ export class _Blank extends React.Component {
                       backgroundColor: "#ffffff",
                       fontStyle: "normal",
                       fontWeight: "normal",
-                      fontFamily: "System",
                       flexDirection: "column",
                       flexWrap: "wrap",
                       justifyContent: "flex-start",
@@ -2538,7 +2487,6 @@ export class _Blank extends React.Component {
                         backgroundColor: "#ffffff",
                         fontStyle: "normal",
                         fontWeight: "normal",
-                        fontFamily: "System",
                         flexDirection: "column",
                         flexWrap: "wrap",
                         justifyContent: "flex-start",
@@ -2575,7 +2523,6 @@ export class _Blank extends React.Component {
                           backgroundColor: "#ffffff",
                           fontStyle: "normal",
                           fontWeight: "normal",
-                          fontFamily: "System",
                           flexDirection: "column",
                           flexWrap: "wrap",
                           justifyContent: "flex-start",
@@ -2596,7 +2543,7 @@ export class _Blank extends React.Component {
                           resizeMode="cover"
                           source={{
                             uri:
-                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/john-kappa-c2TohguxPl8-unsplash.jpg"
+                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/sincerely-media-3DaewOUiiKo-unsplash.jpg"
                           }}
                           style={{
                             width: "100%",
@@ -2619,8 +2566,7 @@ export class _Blank extends React.Component {
                             borderRightWidth: 0,
                             borderTopWidth: 0,
                             borderBottomWidth: 0,
-                            borderRadius: 0,
-                            fontFamily: "System"
+                            borderRadius: 0
                           }}
                         />
                       </View>
@@ -2644,7 +2590,6 @@ export class _Blank extends React.Component {
                           backgroundColor: "#ffffff",
                           fontStyle: "normal",
                           fontWeight: "normal",
-                          fontFamily: "System",
                           flexDirection: "column",
                           flexWrap: "wrap",
                           justifyContent: "flex-start",
@@ -2681,7 +2626,6 @@ export class _Blank extends React.Component {
                             backgroundColor: "#ffffff",
                             fontStyle: "normal",
                             fontWeight: "normal",
-                            fontFamily: "System",
                             flexDirection: "column",
                             flexWrap: "wrap",
                             justifyContent: "flex-start",
@@ -2718,7 +2662,6 @@ export class _Blank extends React.Component {
                               backgroundColor: "#ffffff",
                               fontStyle: "normal",
                               fontWeight: "normal",
-                              fontFamily: "System",
                               flexDirection: "column",
                               flexWrap: "wrap",
                               justifyContent: "flex-start",
@@ -2753,7 +2696,6 @@ export class _Blank extends React.Component {
                                 backgroundColor: "#ffffff",
                                 fontStyle: "normal",
                                 fontWeight: "normal",
-                                fontFamily: "System",
                                 borderColor: "#000000",
                                 borderStyle: "solid",
                                 borderWidth: 0,
@@ -2787,7 +2729,6 @@ export class _Blank extends React.Component {
                               backgroundColor: "#ffffff",
                               fontStyle: "normal",
                               fontWeight: "normal",
-                              fontFamily: "System",
                               flexDirection: "column",
                               flexWrap: "wrap",
                               justifyContent: "flex-start",
@@ -2824,7 +2765,6 @@ export class _Blank extends React.Component {
                                 backgroundColor: "#ffffff",
                                 fontStyle: "normal",
                                 fontWeight: "normal",
-                                fontFamily: "System",
                                 flexDirection: "column",
                                 flexWrap: "wrap",
                                 justifyContent: "flex-start",
@@ -2861,7 +2801,6 @@ export class _Blank extends React.Component {
                                   backgroundColor: "#ffffff",
                                   fontStyle: "normal",
                                   fontWeight: "normal",
-                                  fontFamily: "System",
                                   flexDirection: "column",
                                   flexWrap: "wrap",
                                   justifyContent: "flex-start",
@@ -2896,7 +2835,6 @@ export class _Blank extends React.Component {
                                     backgroundColor: "#ffffff",
                                     fontStyle: "normal",
                                     fontWeight: "normal",
-                                    fontFamily: "System",
                                     borderColor: "#000000",
                                     borderStyle: "solid",
                                     borderWidth: 0,
@@ -2930,7 +2868,6 @@ export class _Blank extends React.Component {
                                   backgroundColor: "#ffffff",
                                   fontStyle: "normal",
                                   fontWeight: "normal",
-                                  fontFamily: "System",
                                   flexDirection: "column",
                                   flexWrap: "wrap",
                                   justifyContent: "flex-start",
@@ -2967,7 +2904,6 @@ export class _Blank extends React.Component {
                                     backgroundColor: "#ffffff",
                                     fontStyle: "normal",
                                     fontWeight: "normal",
-                                    fontFamily: "System",
                                     flexDirection: "row",
                                     flexWrap: "wrap",
                                     justifyContent: "flex-start",
@@ -3004,7 +2940,6 @@ export class _Blank extends React.Component {
                                       backgroundColor: "#ffffff",
                                       fontStyle: "normal",
                                       fontWeight: "normal",
-                                      fontFamily: "System",
                                       flexDirection: "column",
                                       flexWrap: "wrap",
                                       justifyContent: "flex-start",
@@ -3039,7 +2974,6 @@ export class _Blank extends React.Component {
                                         backgroundColor: "#ffffff",
                                         fontStyle: "normal",
                                         fontWeight: "bold",
-                                        fontFamily: "System",
                                         borderColor: "#000000",
                                         borderStyle: "solid",
                                         borderWidth: 0,
@@ -3073,7 +3007,6 @@ export class _Blank extends React.Component {
                                       backgroundColor: "#ffffff",
                                       fontStyle: "normal",
                                       fontWeight: "normal",
-                                      fontFamily: "System",
                                       flexDirection: "column",
                                       flexWrap: "wrap",
                                       justifyContent: "flex-start",
@@ -3117,8 +3050,7 @@ export class _Blank extends React.Component {
                                         borderRightWidth: 0,
                                         borderTopWidth: 0,
                                         borderBottomWidth: 0,
-                                        borderRadius: 0,
-                                        fontFamily: "System"
+                                        borderRadius: 0
                                       }}
                                     />
                                   </View>
@@ -3135,7 +3067,7 @@ export class _Blank extends React.Component {
               <View
                 style={{
                   width: "100%",
-                  height: "50%",
+                  height: "40%",
                   marginLeft: 0,
                   marginRight: 0,
                   marginTop: 0,
@@ -3152,7 +3084,6 @@ export class _Blank extends React.Component {
                   backgroundColor: "#ffffff",
                   fontStyle: "normal",
                   fontWeight: "normal",
-                  fontFamily: "System",
                   flexDirection: "column",
                   flexWrap: "wrap",
                   justifyContent: "flex-start",
@@ -3172,7 +3103,7 @@ export class _Blank extends React.Component {
                 <View
                   style={{
                     width: "100%",
-                    height: "100%",
+                    height: "40%",
                     marginLeft: 0,
                     marginRight: 0,
                     marginTop: 0,
@@ -3189,7 +3120,6 @@ export class _Blank extends React.Component {
                     backgroundColor: "#ffffff",
                     fontStyle: "normal",
                     fontWeight: "normal",
-                    fontFamily: "System",
                     flexDirection: "row",
                     flexWrap: "wrap",
                     justifyContent: "flex-start",
@@ -3226,7 +3156,6 @@ export class _Blank extends React.Component {
                       backgroundColor: "#ffffff",
                       fontStyle: "normal",
                       fontWeight: "normal",
-                      fontFamily: "System",
                       flexDirection: "column",
                       flexWrap: "wrap",
                       justifyContent: "flex-start",
@@ -3263,7 +3192,6 @@ export class _Blank extends React.Component {
                         backgroundColor: "#ffffff",
                         fontStyle: "normal",
                         fontWeight: "normal",
-                        fontFamily: "System",
                         flexDirection: "column",
                         flexWrap: "wrap",
                         justifyContent: "flex-start",
@@ -3300,7 +3228,6 @@ export class _Blank extends React.Component {
                           backgroundColor: "#ffffff",
                           fontStyle: "normal",
                           fontWeight: "normal",
-                          fontFamily: "System",
                           flexDirection: "column",
                           flexWrap: "wrap",
                           justifyContent: "flex-start",
@@ -3321,7 +3248,7 @@ export class _Blank extends React.Component {
                           resizeMode="cover"
                           source={{
                             uri:
-                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/camila-damasio-mWYhrOiAgmA-unsplash_vdIBT8h.jpg"
+                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/mitchel-lensink-1BI-ar91C7U-unsplash.jpg"
                           }}
                           style={{
                             width: "100%",
@@ -3344,8 +3271,7 @@ export class _Blank extends React.Component {
                             borderRightWidth: 0,
                             borderTopWidth: 0,
                             borderBottomWidth: 0,
-                            borderRadius: 0,
-                            fontFamily: "System"
+                            borderRadius: 0
                           }}
                         />
                       </View>
@@ -3369,7 +3295,6 @@ export class _Blank extends React.Component {
                           backgroundColor: "#ffffff",
                           fontStyle: "normal",
                           fontWeight: "normal",
-                          fontFamily: "System",
                           flexDirection: "column",
                           flexWrap: "wrap",
                           justifyContent: "flex-start",
@@ -3406,7 +3331,6 @@ export class _Blank extends React.Component {
                             backgroundColor: "#ffffff",
                             fontStyle: "normal",
                             fontWeight: "normal",
-                            fontFamily: "System",
                             flexDirection: "column",
                             flexWrap: "wrap",
                             justifyContent: "flex-start",
@@ -3443,7 +3367,6 @@ export class _Blank extends React.Component {
                               backgroundColor: "#ffffff",
                               fontStyle: "normal",
                               fontWeight: "normal",
-                              fontFamily: "System",
                               flexDirection: "column",
                               flexWrap: "wrap",
                               justifyContent: "flex-start",
@@ -3478,7 +3401,6 @@ export class _Blank extends React.Component {
                                 backgroundColor: "#ffffff",
                                 fontStyle: "normal",
                                 fontWeight: "normal",
-                                fontFamily: "System",
                                 borderColor: "#000000",
                                 borderStyle: "solid",
                                 borderWidth: 0,
@@ -3512,7 +3434,6 @@ export class _Blank extends React.Component {
                               backgroundColor: "#ffffff",
                               fontStyle: "normal",
                               fontWeight: "normal",
-                              fontFamily: "System",
                               flexDirection: "column",
                               flexWrap: "wrap",
                               justifyContent: "flex-start",
@@ -3549,7 +3470,6 @@ export class _Blank extends React.Component {
                                 backgroundColor: "#ffffff",
                                 fontStyle: "normal",
                                 fontWeight: "normal",
-                                fontFamily: "System",
                                 flexDirection: "column",
                                 flexWrap: "wrap",
                                 justifyContent: "flex-start",
@@ -3586,7 +3506,6 @@ export class _Blank extends React.Component {
                                   backgroundColor: "#ffffff",
                                   fontStyle: "normal",
                                   fontWeight: "normal",
-                                  fontFamily: "System",
                                   flexDirection: "column",
                                   flexWrap: "wrap",
                                   justifyContent: "flex-start",
@@ -3621,7 +3540,6 @@ export class _Blank extends React.Component {
                                     backgroundColor: "#ffffff",
                                     fontStyle: "normal",
                                     fontWeight: "normal",
-                                    fontFamily: "System",
                                     borderColor: "#000000",
                                     borderStyle: "solid",
                                     borderWidth: 0,
@@ -3655,7 +3573,6 @@ export class _Blank extends React.Component {
                                   backgroundColor: "#ffffff",
                                   fontStyle: "normal",
                                   fontWeight: "normal",
-                                  fontFamily: "System",
                                   flexDirection: "column",
                                   flexWrap: "wrap",
                                   justifyContent: "flex-start",
@@ -3692,7 +3609,6 @@ export class _Blank extends React.Component {
                                     backgroundColor: "#ffffff",
                                     fontStyle: "normal",
                                     fontWeight: "normal",
-                                    fontFamily: "System",
                                     flexDirection: "row",
                                     flexWrap: "wrap",
                                     justifyContent: "flex-start",
@@ -3729,7 +3645,6 @@ export class _Blank extends React.Component {
                                       backgroundColor: "#ffffff",
                                       fontStyle: "normal",
                                       fontWeight: "normal",
-                                      fontFamily: "System",
                                       flexDirection: "column",
                                       flexWrap: "wrap",
                                       justifyContent: "flex-start",
@@ -3764,7 +3679,6 @@ export class _Blank extends React.Component {
                                         backgroundColor: "#ffffff",
                                         fontStyle: "normal",
                                         fontWeight: "bold",
-                                        fontFamily: "System",
                                         borderColor: "#000000",
                                         borderStyle: "solid",
                                         borderWidth: 0,
@@ -3798,7 +3712,6 @@ export class _Blank extends React.Component {
                                       backgroundColor: "#ffffff",
                                       fontStyle: "normal",
                                       fontWeight: "normal",
-                                      fontFamily: "System",
                                       flexDirection: "column",
                                       flexWrap: "wrap",
                                       justifyContent: "flex-start",
@@ -3842,8 +3755,7 @@ export class _Blank extends React.Component {
                                         borderRightWidth: 0,
                                         borderTopWidth: 0,
                                         borderBottomWidth: 0,
-                                        borderRadius: 0,
-                                        fontFamily: "System"
+                                        borderRadius: 0
                                       }}
                                     />
                                   </View>
@@ -3875,7 +3787,6 @@ export class _Blank extends React.Component {
                       backgroundColor: "#ffffff",
                       fontStyle: "normal",
                       fontWeight: "normal",
-                      fontFamily: "System",
                       flexDirection: "column",
                       flexWrap: "wrap",
                       justifyContent: "flex-start",
@@ -3912,7 +3823,6 @@ export class _Blank extends React.Component {
                         backgroundColor: "#ffffff",
                         fontStyle: "normal",
                         fontWeight: "normal",
-                        fontFamily: "System",
                         flexDirection: "column",
                         flexWrap: "wrap",
                         justifyContent: "flex-start",
@@ -3949,7 +3859,6 @@ export class _Blank extends React.Component {
                           backgroundColor: "#ffffff",
                           fontStyle: "normal",
                           fontWeight: "normal",
-                          fontFamily: "System",
                           flexDirection: "column",
                           flexWrap: "wrap",
                           justifyContent: "flex-start",
@@ -3970,7 +3879,7 @@ export class _Blank extends React.Component {
                           resizeMode="cover"
                           source={{
                             uri:
-                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/chang-duong-4UxMV71lQPY-unsplash.jpg"
+                              "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/nathan-riley-9q3I8XhesQI-unsplash.jpg"
                           }}
                           style={{
                             width: "100%",
@@ -3993,8 +3902,7 @@ export class _Blank extends React.Component {
                             borderRightWidth: 0,
                             borderTopWidth: 0,
                             borderBottomWidth: 0,
-                            borderRadius: 0,
-                            fontFamily: "System"
+                            borderRadius: 0
                           }}
                         />
                       </View>
@@ -4018,7 +3926,6 @@ export class _Blank extends React.Component {
                           backgroundColor: "#ffffff",
                           fontStyle: "normal",
                           fontWeight: "normal",
-                          fontFamily: "System",
                           flexDirection: "column",
                           flexWrap: "wrap",
                           justifyContent: "flex-start",
@@ -4055,7 +3962,6 @@ export class _Blank extends React.Component {
                             backgroundColor: "#ffffff",
                             fontStyle: "normal",
                             fontWeight: "normal",
-                            fontFamily: "System",
                             flexDirection: "column",
                             flexWrap: "wrap",
                             justifyContent: "flex-start",
@@ -4092,7 +3998,6 @@ export class _Blank extends React.Component {
                               backgroundColor: "#ffffff",
                               fontStyle: "normal",
                               fontWeight: "normal",
-                              fontFamily: "System",
                               flexDirection: "column",
                               flexWrap: "wrap",
                               justifyContent: "flex-start",
@@ -4127,7 +4032,6 @@ export class _Blank extends React.Component {
                                 backgroundColor: "#ffffff",
                                 fontStyle: "normal",
                                 fontWeight: "normal",
-                                fontFamily: "System",
                                 borderColor: "#000000",
                                 borderStyle: "solid",
                                 borderWidth: 0,
@@ -4161,7 +4065,6 @@ export class _Blank extends React.Component {
                               backgroundColor: "#ffffff",
                               fontStyle: "normal",
                               fontWeight: "normal",
-                              fontFamily: "System",
                               flexDirection: "column",
                               flexWrap: "wrap",
                               justifyContent: "flex-start",
@@ -4198,7 +4101,6 @@ export class _Blank extends React.Component {
                                 backgroundColor: "#ffffff",
                                 fontStyle: "normal",
                                 fontWeight: "normal",
-                                fontFamily: "System",
                                 flexDirection: "column",
                                 flexWrap: "wrap",
                                 justifyContent: "flex-start",
@@ -4235,7 +4137,6 @@ export class _Blank extends React.Component {
                                   backgroundColor: "#ffffff",
                                   fontStyle: "normal",
                                   fontWeight: "normal",
-                                  fontFamily: "System",
                                   flexDirection: "column",
                                   flexWrap: "wrap",
                                   justifyContent: "flex-start",
@@ -4270,7 +4171,6 @@ export class _Blank extends React.Component {
                                     backgroundColor: "#ffffff",
                                     fontStyle: "normal",
                                     fontWeight: "normal",
-                                    fontFamily: "System",
                                     borderColor: "#000000",
                                     borderStyle: "solid",
                                     borderWidth: 0,
@@ -4304,7 +4204,6 @@ export class _Blank extends React.Component {
                                   backgroundColor: "#ffffff",
                                   fontStyle: "normal",
                                   fontWeight: "normal",
-                                  fontFamily: "System",
                                   flexDirection: "column",
                                   flexWrap: "wrap",
                                   justifyContent: "flex-start",
@@ -4341,7 +4240,6 @@ export class _Blank extends React.Component {
                                     backgroundColor: "#ffffff",
                                     fontStyle: "normal",
                                     fontWeight: "normal",
-                                    fontFamily: "System",
                                     flexDirection: "row",
                                     flexWrap: "wrap",
                                     justifyContent: "flex-start",
@@ -4378,7 +4276,6 @@ export class _Blank extends React.Component {
                                       backgroundColor: "#ffffff",
                                       fontStyle: "normal",
                                       fontWeight: "normal",
-                                      fontFamily: "System",
                                       flexDirection: "column",
                                       flexWrap: "wrap",
                                       justifyContent: "flex-start",
@@ -4413,7 +4310,6 @@ export class _Blank extends React.Component {
                                         backgroundColor: "#ffffff",
                                         fontStyle: "normal",
                                         fontWeight: "bold",
-                                        fontFamily: "System",
                                         borderColor: "#000000",
                                         borderStyle: "solid",
                                         borderWidth: 0,
@@ -4447,7 +4343,6 @@ export class _Blank extends React.Component {
                                       backgroundColor: "#ffffff",
                                       fontStyle: "normal",
                                       fontWeight: "normal",
-                                      fontFamily: "System",
                                       flexDirection: "column",
                                       flexWrap: "wrap",
                                       justifyContent: "flex-start",
@@ -4491,8 +4386,7 @@ export class _Blank extends React.Component {
                                         borderRightWidth: 0,
                                         borderTopWidth: 0,
                                         borderBottomWidth: 0,
-                                        borderRadius: 0,
-                                        fontFamily: "System"
+                                        borderRadius: 0
                                       }}
                                     />
                                   </View>
@@ -4506,6 +4400,42 @@ export class _Blank extends React.Component {
                   </View>
                 </View>
               </View>
+              <View
+                style={{
+                  width: "100%",
+                  height: "20%",
+                  marginLeft: 0,
+                  marginRight: 0,
+                  marginTop: 0,
+                  marginBottom: 0,
+                  paddingLeft: 0,
+                  paddingRight: 0,
+                  paddingTop: 0,
+                  paddingBottom: 0,
+                  overflow: "visible",
+                  textAlign: "left",
+                  verticalAlign: "baseline",
+                  fontSize: 20,
+                  color: "#000000",
+                  backgroundColor: "#ffffff",
+                  fontStyle: "normal",
+                  fontWeight: "normal",
+                  flexDirection: "column",
+                  flexWrap: "wrap",
+                  justifyContent: "flex-start",
+                  alignItems: "stretch",
+                  alignContent: "stretch",
+                  borderColor: "#000000",
+                  borderStyle: "solid",
+                  borderWidth: 0,
+                  borderLeftWidth: 0,
+                  borderRightWidth: 0,
+                  borderTopWidth: 0,
+                  borderBottomWidth: 0,
+                  borderRadius: 0,
+                  backgroundSize: "auto"
+                }}
+              />
             </View>
           </View>
         </View>
