@@ -3505,7 +3505,7 @@ export class _Blank extends React.Component {
                               resizeMode="contain"
                               source={{
                                 uri:
-                                  "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/home_2_ihLAzvE.png"
+                                  "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/heart_qdsulHJ.png"
                               }}
                               style={{
                                 width: "94%",
@@ -3706,7 +3706,7 @@ export class _Blank extends React.Component {
                               resizeMode="contain"
                               source={{
                                 uri:
-                                  "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/home_2_ihLAzvE.png"
+                                  "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/camera_AZgb19i.png"
                               }}
                               style={{
                                 width: "94%",
@@ -3907,7 +3907,7 @@ export class _Blank extends React.Component {
                               resizeMode="contain"
                               source={{
                                 uri:
-                                  "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/home_2_ihLAzvE.png"
+                                  "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/comment_Mm9S6Mi.png"
                               }}
                               style={{
                                 width: "94%",
@@ -4108,7 +4108,7 @@ export class _Blank extends React.Component {
                               resizeMode="contain"
                               source={{
                                 uri:
-                                  "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/home_2_ihLAzvE.png"
+                                  "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/user_4_Lm9dYyd.png"
                               }}
                               style={{
                                 width: "94%",
