@@ -244,7 +244,7 @@ export class _Blank extends React.Component {
                       "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/back_dcp9B6m.png"
                   }}
                   style={{
-                    width: "100%",
+                    width: "71%",
                     height: "100%",
                     marginLeft: 0,
                     marginRight: 0,
@@ -308,7 +308,7 @@ export class _Blank extends React.Component {
                   style={{
                     marginLeft: 0,
                     marginRight: 0,
-                    marginTop: 8,
+                    marginTop: 9,
                     marginBottom: 5,
                     paddingLeft: 5,
                     paddingRight: 5,
