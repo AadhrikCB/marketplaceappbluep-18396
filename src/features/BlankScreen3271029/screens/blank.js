@@ -866,7 +866,7 @@ export class _Blank extends React.Component {
                               style={{
                                 marginLeft: 0,
                                 marginRight: 0,
-                                marginTop: -13,
+                                marginTop: -6,
                                 marginBottom: 5,
                                 paddingLeft: 5,
                                 paddingRight: 5,
