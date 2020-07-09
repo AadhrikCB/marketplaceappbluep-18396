@@ -1234,18 +1234,19 @@ export class _Blank extends React.Component {
             }}
           >
             <Image
-              resizeMode="cover"
+              resizeMode="contain"
+              source={{
+                uri:
+                  "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/Screen_Shot_2020-07-09_at_3.46.13_PM.png"
+              }}
               style={{
                 width: "100%",
-                height: "100%",
+                height: 127,
                 marginLeft: 0,
                 marginRight: 0,
-                marginTop: 0,
-                marginBottom: 0,
-                paddingLeft: 0,
-                paddingRight: 0,
+                marginTop: -21,
+                paddingRight: 5,
                 paddingTop: 0,
-                paddingBottom: 0,
                 overflow: "visible",
                 textAlign: "left",
                 verticalAlign: "baseline",
