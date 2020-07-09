@@ -1166,6 +1166,36 @@ export class _Blank extends React.Component {
             >
               Reviews
             </Text>
+            <Text
+              style={{
+                marginLeft: 0,
+                marginRight: 12,
+                marginTop: -13,
+                marginBottom: 5,
+                paddingLeft: 5,
+                paddingRight: 5,
+                paddingTop: 5,
+                paddingBottom: 5,
+                overflow: "visible",
+                textAlign: "right",
+                verticalAlign: "baseline",
+                fontSize: 12,
+                color: "#000000",
+                backgroundColor: "#f4f5f9",
+                fontStyle: "italic",
+                fontWeight: "bold",
+                borderColor: "#000000",
+                borderStyle: "solid",
+                borderWidth: 0,
+                borderLeftWidth: 0,
+                borderRightWidth: 0,
+                borderTopWidth: 0,
+                borderBottomWidth: 0,
+                borderRadius: 0
+              }}
+            >
+              See More
+            </Text>
           </View>
           <View
             style={{
