@@ -901,16 +901,14 @@ export class _Blank extends React.Component {
               </View>
               <View
                 style={{
-                  width: "70%",
+                  width: "60%",
                   height: "15%",
-                  marginLeft: 40,
+                  marginLeft: "31%",
                   marginRight: 8,
-                  marginTop: 0,
+                  marginTop: -4,
                   marginBottom: 0,
                   paddingLeft: 0,
                   paddingRight: 0,
-                  paddingTop: 0,
-                  paddingBottom: 0,
                   overflow: "visible",
                   textAlign: "center",
                   verticalAlign: "baseline",
@@ -937,15 +935,14 @@ export class _Blank extends React.Component {
               >
                 <Button
                   style={{
-                    width: "78%",
-                    height: 4,
+                    width: "79%",
                     marginLeft: 0,
                     marginRight: 0,
                     marginTop: 5,
-                    marginBottom: 10,
+                    marginBottom: 5,
                     paddingLeft: 5,
                     paddingRight: 5,
-                    paddingTop: 5,
+                    paddingTop: 4,
                     paddingBottom: 5,
                     overflow: "visible",
                     verticalAlign: "baseline",
